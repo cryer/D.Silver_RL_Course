@@ -29,7 +29,7 @@
 
 ## 智能体和环境
 
-![](./images/1.png)
+![](../images/1.png)
 
 如图：
 * 在每一步t，智能体执行动作At，获得一个来自环境的观察和一个标量奖励Rt
@@ -116,7 +116,7 @@ State分为环境State，智能体State和信息State：
 * 用来估计状态的好坏
 * 在动作之间选择
 
-![](./images/2.png)
+![](../images/2.png)
 
 ### Model
 
@@ -124,19 +124,19 @@ State分为环境State，智能体State和信息State：
 * P 预测下一个状态
 * R预测下一个即时奖励
 
-![](./images/3.png)
+![](../images/3.png)
 
 ## 智能体分类
 
 根据上面的智能体的构成
 
-![](./images/4.png)
+![](../images/4.png)
 
-![](./images/5.png)
+![](../images/5.png)
 
 总结一下就是下图：
 
-![](./images/6.png)
+![](../images/6.png)
 
 
 ## 探索和开发
