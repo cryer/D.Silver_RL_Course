@@ -4,7 +4,7 @@ Some notes and experience about David Silver's Reinforcement Learning Course in 
 
 
 - [x] 1_Introduction :blush:
-- [ ] 2_MDP :worried:
+- [x] 2_MDP :blush:
 - [ ] 3_DP :worried:
 - [ ] 4_MC_TD :worried:
 - [ ] 5_Control :worried:
