@@ -176,12 +176,18 @@ V (A) = 0 + 1/1 * (0 - 0)=0
 
 这是一种Forward-view 方法，但是弊端也很明显，就是像MC一样，也必须要完整的片段了。
 
-所以改进出现了Backward view方法，从不完整的序列在线更新
+还有一种Backward view方法，它和Forward-view 方法是等价的，从不完整的序列在线更新。
 
-## Backward View TD(λ)
+课件中两句话表明了两者的关系：
+* Forward view provides theory
+* Backward view provides mechanism
+
+## TD(λ)
 
 最终形成了这个TD(λ)算法，就是我们说的TD与MC的过渡方法，TD（0）是其中的特殊情况。
 这个算法需要好好根据ppt理解，我先停在这里，之后会给出更加详细的说明。因为后面的Sarsa(λ)也是同样的思想。
+
+
 
 
 
