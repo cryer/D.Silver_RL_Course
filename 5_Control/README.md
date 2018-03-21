@@ -128,6 +128,8 @@ Backward View Sarsa(λ)，更新流程如下:
 
 因为Q learning中不需要重要性采样，所以我就不多说了，但是这个很重要，可以多看看ppt。
 
+### Q-learning
+
 Q值更新如下，和Sarsa的区别开头也说了，主要在计算target的时候，因此Qlearning也叫SarsaMAX。
 
 ![](../images/63.png)
