@@ -10,7 +10,7 @@ Some notes and experience about David Silver's Reinforcement Learning Course in 
 - [x] 5_Control :blush:
 - [x] 6_FA :blush:
 - [x] 7_PG :blush:
-- [ ] 8_dyna :worried:
+- [x] 8_dyna :blush:
 - [ ] 9_XX :worried:
 - [ ] 10_Games :worried:
 - [ ] assignment :worried:
