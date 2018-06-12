@@ -78,7 +78,7 @@ State分为环境State，智能体State和信息State：
 
 * 信息State
   
-  * 它包含历史中所有游泳的信息
+  * 它包含历史中所有有用的信息
   
   * 也成为Markov State，马尔科夫状态
   
