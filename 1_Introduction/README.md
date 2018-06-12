@@ -80,7 +80,7 @@ State分为环境State，智能体State和信息State：
   
   * 它包含历史中所有有用的信息
   
-  * 也成为Markov State，马尔科夫状态
+  * 也称为Markov State，马尔科夫状态
   
   * 既然叫马尔科夫状态，也就是说，下一个状态只依赖于当前状态
   
