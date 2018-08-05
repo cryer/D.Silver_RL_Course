@@ -12,5 +12,5 @@ Some notes and experience about David Silver's Reinforcement Learning Course in 
 - [x] 7_PG :blush:  [Go](https://github.com/cryer/D.Silver_RL_Course/tree/master/7_PG)
 - [x] 8_dyna :blush:  [Go](https://github.com/cryer/D.Silver_RL_Course/tree/master/8_dyna)
 - [x] 9_XX :blush:  [Go](https://github.com/cryer/D.Silver_RL_Course/tree/master/9_XX)
-- [ ] 10_Games :worried:  [Go](https://github.com/cryer/D.Silver_RL_Course/tree/master/10_Games)
+- [x] 10_Games :blush:  [Go](https://github.com/cryer/D.Silver_RL_Course/tree/master/10_Games)
 - [ ] assignment :worried:
