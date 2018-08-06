@@ -16,7 +16,7 @@ Notes for course is now Chinese only!
 - [x] 8_dyna :blush:  [Go](https://github.com/cryer/D.Silver_RL_Course/tree/master/8_dyna)
 - [x] 9_XX :blush:  [Go](https://github.com/cryer/D.Silver_RL_Course/tree/master/9_XX)
 - [x] 10_Games :blush:  [Go](https://github.com/cryer/D.Silver_RL_Course/tree/master/10_Games)
-- [ ] assignment :worried:
+- [x] assignment :blush: [Go](https://github.com/cryer/D.Silver_RL_Course/tree/master/Easy21)
 
 # Reinforcement Learning Assignment: Easy21
 
