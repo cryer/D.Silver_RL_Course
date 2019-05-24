@@ -103,8 +103,8 @@ GLIE 蒙特卡洛策略迭代的完整流程如下：(还是非常清晰的)
 
 ![](../images/60.png)
 
-注意和MC Polocy iteration 不同的是，前者是每个episode更新一次，这个是每个time step更新一次，
-所以说Sarsa是在线更新的。
+注意和MC Polocy iteration 不同的是，前者每次更新Q(St,At)时需要知道完整的流程，因为Gt的计算原因，而Sarsa是每个time step更新一次，不需要事先采样完
+整流程，所以说Sarsa是在线更新的（也就是边探索边更新）。
 
 ### Sarsa的收敛性
 
